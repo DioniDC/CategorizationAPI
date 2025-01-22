@@ -1,0 +1,254 @@
+{
+  "Codigo": "100",
+  "Nome": "Mercado Central",
+  "Departamentos": [
+    {
+      "Codigo": "101",
+      "Nome": "Alimentos",
+      "CodigoVinculo": "100",
+      "Grupos": [
+        {
+          "Codigo": "1011",
+          "Nome": "Frutas e Verduras",
+          "CodigoVinculo": "101",
+          "Subgrupos": [
+            {
+              "Codigo": "10111",
+              "Nome": "Frutas Nacionais",
+              "CodigoVinculo": "1011"
+            },
+            {
+              "Codigo": "10112",
+              "Nome": "Frutas Importadas",
+              "CodigoVinculo": "1011"
+            },
+            {
+              "Codigo": "10113",
+              "Nome": "Verduras",
+              "CodigoVinculo": "1011"
+            },
+            {
+              "Codigo": "1011333",
+              "Nome": "Legumes",
+              "CodigoVinculo": "1011"
+            }
+          ]
+        },
+        {
+          "Codigo": "1012",
+          "Nome": "Carnes e Aves",
+          "CodigoVinculo": "101",
+          "Subgrupos": [
+            {
+              "Codigo": "10121",
+              "Nome": "Carnes Bovinas",
+              "CodigoVinculo": "1012"
+            },
+            {
+              "Codigo": "10122",
+              "Nome": "Carnes Suínas",
+              "CodigoVinculo": "1012"
+            },
+            {
+              "Codigo": "10123",
+              "Nome": "Aves",
+              "CodigoVinculo": "1012"
+            }
+          ]
+        },
+        {
+          "Codigo": "1013",
+          "Nome": "Congelados",
+          "CodigoVinculo": "101",
+          "Subgrupos": [
+            {
+              "Codigo": "10131",
+              "Nome": "Legumes Congelados",
+              "CodigoVinculo": "1013"
+            },
+            {
+              "Codigo": "10132",
+              "Nome": "Carnes Congeladas",
+              "CodigoVinculo": "1013"
+            },
+            {
+              "Codigo": "10133",
+              "Nome": "Frutas Congeladas",
+              "CodigoVinculo": "1013"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Codigo": "102",
+      "Nome": "Bebidas",
+      "CodigoVinculo": "100",
+      "Grupos": [
+        {
+          "Codigo": "1021",
+          "Nome": "Refrigerantes",
+          "CodigoVinculo": "102",
+          "Subgrupos": [
+            {
+              "Codigo": "10211",
+              "Nome": "Cola",
+              "CodigoVinculo": "1021"
+            },
+            {
+              "Codigo": "10212",
+              "Nome": "Laranja",
+              "CodigoVinculo": "1021"
+            },
+            {
+              "Codigo": "10213",
+              "Nome": "Guaraná",
+              "CodigoVinculo": "1021"
+            },
+            {
+              "Codigo": "242424",
+              "Nome": "Igo Enlatado",
+              "CodigoVinculo": "1021"
+            }
+          ]
+        },
+        {
+          "Codigo": "1022",
+          "Nome": "Águas",
+          "CodigoVinculo": "102",
+          "Subgrupos": [
+            {
+              "Codigo": "10221",
+              "Nome": "Água Mineral",
+              "CodigoVinculo": "1022"
+            },
+            {
+              "Codigo": "10222",
+              "Nome": "Água com Gás",
+              "CodigoVinculo": "1022"
+            }
+          ]
+        },
+        {
+          "Codigo": "1023",
+          "Nome": "Bebidas Alcoólicas",
+          "CodigoVinculo": "102",
+          "Subgrupos": [
+            {
+              "Codigo": "10231",
+              "Nome": "Cervejas",
+              "CodigoVinculo": "1023"
+            },
+            {
+              "Codigo": "10232",
+              "Nome": "Vinhos",
+              "CodigoVinculo": "1023"
+            },
+            {
+              "Codigo": "10233",
+              "Nome": "Destilados",
+              "CodigoVinculo": "1023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Codigo": "103",
+      "Nome": "Higiene e Beleza",
+      "CodigoVinculo": "100",
+      "Grupos": [
+        {
+          "Codigo": "1031",
+          "Nome": "Higiene Pessoal",
+          "CodigoVinculo": "103",
+          "Subgrupos": [
+            {
+              "Codigo": "10311",
+              "Nome": "Shampoos",
+              "CodigoVinculo": "1031"
+            },
+            {
+              "Codigo": "10312",
+              "Nome": "Sabonetes",
+              "CodigoVinculo": "1031"
+            },
+            {
+              "Codigo": "10313",
+              "Nome": "Desodorantes",
+              "CodigoVinculo": "1031"
+            }
+          ]
+        },
+        {
+          "Codigo": "1032",
+          "Nome": "Cuidados com a Pele",
+          "CodigoVinculo": "103",
+          "Subgrupos": [
+            {
+              "Codigo": "10321",
+              "Nome": "Hidratantes",
+              "CodigoVinculo": "1032"
+            },
+            {
+              "Codigo": "10322",
+              "Nome": "Protetor Solar",
+              "CodigoVinculo": "1032"
+            },
+            {
+              "Codigo": "10323",
+              "Nome": "Cremes Anti-idade",
+              "CodigoVinculo": "1032"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Codigo": "104",
+      "Nome": "Limpeza",
+      "CodigoVinculo": "100",
+      "Grupos": [
+        {
+          "Codigo": "1041",
+          "Nome": "Limpeza Geral",
+          "CodigoVinculo": "104",
+          "Subgrupos": [
+            {
+              "Codigo": "10411",
+              "Nome": "Detergentes",
+              "CodigoVinculo": "1041"
+            },
+            {
+              "Codigo": "10412",
+              "Nome": "Desinfetantes",
+              "CodigoVinculo": "1041"
+            },
+            {
+              "Codigo": "10413",
+              "Nome": "Sabão em Pó",
+              "CodigoVinculo": "1041"
+            }
+          ]
+        },
+        {
+          "Codigo": "1042",
+          "Nome": "Limpeza de Roupas",
+          "CodigoVinculo": "104",
+          "Subgrupos": [
+            {
+              "Codigo": "10421",
+              "Nome": "Amaciantes",
+              "CodigoVinculo": "1042"
+            },
+            {
+              "Codigo": "10422",
+              "Nome": "Sabão Líquido",
+              "CodigoVinculo": "1042"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
